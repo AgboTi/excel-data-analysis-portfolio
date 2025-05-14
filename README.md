@@ -14,7 +14,7 @@ Welcome to my data analysis portfolio! This repository contains a collection of 
   - Churn rate calculation
   - Customer classification (Active vs Churned)
   - Visual dashboard with KPIs and trends
-- [🔗 View Project Folder](./bank-customer-churn-analysis)
+- [🔗 View Project Folder](Bank_Customer_Churn_Analysis)
 
 ---
 
