@@ -26,7 +26,7 @@ Welcome to my data analysis portfolio! This repository contains a collection of 
   - Sales and profit trends
   - Customer segment analysis
   - Regional and shipping performance
-- [🔗 View Project Folder](./us-ecommerce-sales-ana)
+- [🔗 View Project Folder](US_Ecommerce_Sales_Analysis)
 
 ---
 
